@@ -5,7 +5,6 @@ I'm a final year student at ThuyLoiUniversity
 
 * 🌍  I'm based in Hai Duong
 * ✉️  You can contact me at [hien151003@gmail.com](mailto:hien151003@gmail.com)
-* 🚀  I'm currently on internship at [AIRC Center](http://r)
 * 🧠  I'm learning Information System
 
 [![](https://visitcount.itsvg.in/api?id=heinrua&icon=0&color=0)](https://visitcount.itsvg.in)
